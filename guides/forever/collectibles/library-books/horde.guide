@@ -54,7 +54,7 @@ step Owen Thadd
 step The Lessons of Ta'zo
   zone Orgrimmar
   tip The Valley of Spirits: the Mural of Ta'zo tablet near Darkbriar Lodge.
-  collect 207972 @38.7,78.4
+  collect 207972 "The Lessons of Ta'zo" @38.7,78.4
 
 step Baxtan: On Destructive Magics
   zone The Barrens
@@ -152,7 +152,7 @@ step RwlRwlRwlRwl!
 step Demons and You
   zone Desolace
   tip Thunder Axe Fortress: the book lies on a bench inside the large inner building.
-  collect 215817 @55.1,26.2
+  collect 215817 "Demons and You" @55.1,26.2
 
 step Owen Thadd
   zone Undercity
